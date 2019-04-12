@@ -1,0 +1,2 @@
+# wpPlugin
+SMRD WP Plugin
